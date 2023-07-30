@@ -1,0 +1,26 @@
+export default[{
+        img: require("@/assets/BadgePage/lock.png"),
+        badges: [
+          { name: "누적 산책 시간", img: require("@/assets/BadgePage/icon_1.png")},
+          { name: "누적 산책 횟수", img: require("@/assets/BadgePage/icon_2.png")},
+          { name: "반려동물이랑", img: require("@/assets/BadgePage/icon_3.png")},
+          { name: "산책 첫걸음", img: require("@/assets/BadgePage/icon_4.png")},
+          { name: "아직까진 초수", img: require("@/assets/BadgePage/lock.png")},
+          { name: "티끌 모아 태산", img: require("@/assets/BadgePage/lock.png")},
+          { name: "가정 내 워커", img: require("@/assets/BadgePage/lock.png")},
+          { name: "소통의 시작", img: require("@/assets/BadgePage/lock.png")},
+          { name: "추억 만들기", img: require("@/assets/BadgePage/lock.png")},
+          { name: "심경의 변화", img: require("@/assets/BadgePage/lock.png")},
+          { name: "나만의 배지", img: require("@/assets/BadgePage/lock.png")},
+          { name: "일단 나와봐", img: require("@/assets/BadgePage/lock.png")},
+          { name: "선의의 경쟁", img: require("@/assets/BadgePage/lock.png")},
+          { name: "산책 인싸", img: require("@/assets/BadgePage/lock.png")},
+          { name: "산책 트레이너", img: require("@/assets/BadgePage/lock.png")},
+          { name: "따뜻한 이웃", img: require("@/assets/BadgePage/lock.png")},
+          { name: "꾸준함 레전드", img: require("@/assets/BadgePage/lock.png")},
+          { name: "나는 1위다", img: require("@/assets/BadgePage/lock.png")},
+          { name: "산책하는 재미", img: require("@/assets/BadgePage/lock.png")}, 
+          { name: "우리는 하나", img: require("@/assets/BadgePage/lock.png")},
+          { name: "인생의 동반자", img: require("@/assets/BadgePage/lock.png")},
+        ]
+      }]
